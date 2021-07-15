@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <string name="default_notification_channel_id">new_notification_final</string>
+    <string name="mapbox_access_token" translatable="false">pk.eyJ1IjoicmVjaXByb2NhbCIsImEiOiJja2J4N3VvdXEwbmQyMnB0YjBwc283bzV1In0.oPv0d8exlX8CBH426KwQNw</string>
+    <string name="user_location_permission_explanation">This app needs location permissions to show its functionality.</string>
+    <string name="user_location_permission_not_granted">You didn\'t grant location permissions.</string>
+</resources>
